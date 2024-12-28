@@ -16,20 +16,6 @@ This project classifies news articles as **True** or **Fake** using machine lear
 
 ---
 
-### **Installation**
-Install required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-Or individually:
-
-```bash
-pip install pandas numpy scikit-learn seaborn gensim nltk transformers
-```
-
----
-
 ### **Data Preprocessing**
 - Load `Fake.csv` and `True.csv` datasets.
 - Clean the text (remove URLs, special characters, etc.).
