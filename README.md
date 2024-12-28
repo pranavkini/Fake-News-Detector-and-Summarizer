@@ -4,6 +4,11 @@ This project classifies news articles as **True** or **Fake** using machine lear
 
 ---
 
+### **Dataset**
+- https://www.kaggle.com/datasets/jainpooja/fake-news-detection
+
+---
+
 ### **Overview**
 - **Classification**: Predicts whether a news article is **True** or **Fake** using the following models:
   - Logistic Regression
